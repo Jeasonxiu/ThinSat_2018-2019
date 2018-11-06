@@ -1,0 +1,31 @@
+﻿<?xml version="1.0"?>
+<DataChest>
+  <Data name="ComboBoxFlashBaudrate.Text">
+    <Type>String</Type>
+    <Value>256000</Value>
+  </Data>
+  <Data name="ComboBoxFlashSize.ItemIndex">
+    <Type>Integer</Type>
+    <Value>4</Value>
+  </Data>
+  <Data name="ComboBoxFlashSpeed.ItemIndex">
+    <Type>Integer</Type>
+    <Value>0</Value>
+  </Data>
+  <Data name="ComboBoxSPIMode.ItemIndex">
+    <Type>Integer</Type>
+    <Value>1</Value>
+  </Data>
+  <Data name="FrameConfigLine1.FilePath">
+    <Type>String</Type>
+    <Value>XINABOX</Value>
+  </Data>
+  <Data name="FrameConfigLine1.Offset">
+    <Type>String</Type>
+    <Value>0x00000</Value>
+  </Data>
+  <Publisher>
+    <Info>XinaBox Inc. https://xinabox.cc</Info>
+    <Version>1.0</Version>
+  </Publisher>
+</DataChest>

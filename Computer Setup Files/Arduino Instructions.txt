@@ -1,0 +1,2 @@
+To set up your arduino IDE, use the instructions from the GitHub Thinsat Wiki:
+https://github.com/VCSFA-MARS/ThinSat-Program/wiki/xChip-Setup
